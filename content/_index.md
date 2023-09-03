@@ -14,10 +14,10 @@ paige:
     #paige-title {
         font-size: 5rem;
     }
-title: ""
+title: "Drona Academy"
 ---
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/splash-screen.jpg?w=1296" width="100%" %}}</p>
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/courses.jpg?w=1296" width="100%" %}}</p>
 
 <p class="display-5 fw-bold h2 text-center">Building Nation</p>
 
