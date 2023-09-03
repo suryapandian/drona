@@ -11,11 +11,12 @@ draft = false
 
 Students of Drona Academy have started a whatsapp group "Karam Kodupom" meaning <i>"let us give a hand"</i>. Every month, they credit some money towards Karam Kodupom and they use that money to help someone in need. 
 
-Here we post the activies that we do every month.
+Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
 ### September
- Rs 7000 has given to Vinmeen mentally retarded Girls Training Institute on the celebration of Rakshabandan. They participated in games, do computer data entry , making dolls and mats 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.png"></img>
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.jpeg" width="25%" height="25%" style="padding: 2%"></img>
+</br>
+Rs 7000 has given to Vinmeen mentally retarded Girls Training Institute on the celebration of Rakshabandan. They participated in games, do computer data entry , making dolls and mats 
 
 ### August: 
 
