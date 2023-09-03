@@ -23,8 +23,8 @@ echo "List Bin Dir..."
 
 ls $BIN_DIR;
 
-sass --version
+sass --embedded --version
 
 echo "Building..."
 
-hugo
+hugo --gc --minify
