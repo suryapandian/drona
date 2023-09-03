@@ -24,4 +24,7 @@ name = "Karam Kodupom"
 url = "/karam_kodupom"
 weight = 20
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [taxonomies]
