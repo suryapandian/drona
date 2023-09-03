@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Drona academy'
+theme = 'paige'
+copyright = "© Surya Pandian"
+enablerobotstxt = true
+titlecasestyle = "Go"
+
+[[module.imports]]
+
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "content"
+name = "Karam Kodupom"
+url = "/karam_kodupom"
+weight = 20
+
+[taxonomies]
