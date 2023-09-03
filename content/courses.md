@@ -5,6 +5,8 @@ draft = false
 +++
 
 
-- IBPS and other bank exam preparations
-- Group exams
-- UPSC exams
+</br>
+
+- [IBPS](https://www.ibps.in/) and other bank exam preparations </br> </br>
+- [Group exams](https://iasexamportal.com/forum/info-list-civil-service-examination-all-groups) </br> </br>
+- UPSC exams </br> </br>
