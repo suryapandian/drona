@@ -1,6 +1,6 @@
 ### Drona
 
-Static website for drona academy built using [paige] (https://github.com/willfaught/paige)
+Static website for drona academy built using [paige](https://github.com/willfaught/paige)
 
 
 ### Running locally
