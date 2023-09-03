@@ -4,7 +4,12 @@ date = 2023-09-03T18:50:35+01:00
 draft = false
 +++
 
-Students of Drona Academy have started a whatsapp group "Karam Kodupom" meaning "let us give a hand". Every month, they credit some money towards Karam Kodupom and they use that money to help someone in need.
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/joinUs.jpg?w=1296" width="100%" %}}</p>
+
+</br>
+</br>
+
+Students of Drona Academy have started a whatsapp group "Karam Kodupom" meaning <i>"let us give a hand"</i>. Every month, they credit some money towards Karam Kodupom and they use that money to help someone in need. 
 
 Here we post the activies that we do every month.
 
