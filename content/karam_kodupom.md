@@ -14,7 +14,7 @@ Students of Drona Academy have started a whatsapp group "Karam Kodupom" meaning 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
 ### September
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.jpeg" width="25%" height="25%" style="padding: 2%"></img>
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 Rs 7000 has given to Vinmeen mentally retarded Girls Training Institute on the celebration of Rakshabandan. They participated in games, do computer data entry , making dolls and mats 
 
