@@ -2,7 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Drona academy'
 theme = 'paige'
-copyright = "© Surya Pandian"
 enablerobotstxt = true
 titlecasestyle = "Go"
 
