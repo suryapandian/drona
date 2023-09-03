@@ -15,6 +15,7 @@ Here we post the activies that we do every month.
 
 ### September
  Rs 7000 has given to Vinmeen mentally retarded Girls Training Institute on the celebration of Rakshabandan. They participated in games, do computer data entry , making dolls and mats 
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.png"></img>
 
 ### August: 
 

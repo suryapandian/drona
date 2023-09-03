@@ -23,6 +23,12 @@ name = "Karam Kodupom"
 url = "/karam_kodupom"
 weight = 20
 
+[[languages.en.menu.main]]
+identifier = "courses"
+name = "Courses"
+url = "/courses"
+weight = 20
+
 [markup.goldmark.renderer]
 unsafe = true
 
