@@ -1,5 +1,5 @@
 +++
-title = '🏹 🤝🏻 KaraM KodupoM 💐✨'
+title = 'KaraM KodupoM'
 date = 2023-09-03T18:50:35+01:00
 draft = false
 +++
@@ -9,7 +9,7 @@ draft = false
 </br>
 </br>
 
-Students of Drona Academy have started a whatsapp group "Karam Kodupom" meaning <i>"let us give a hand"</i>. Every month, they credit some money towards Karam Kodupom and they use that money to help someone in need. 
+Students of Drona Academy have started a whatsapp group "கரம் கொடுப்போம் aka Karam Kodupom" meaning <i>"let us give a hand"</i> in <a href ="https://en.wikipedia.org/wiki/Tamil_language"> Tamil </a>. Every month, they credit some money towards Karam Kodupom and they use that money to help someone in need. 
 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
