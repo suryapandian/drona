@@ -13,6 +13,9 @@ Students of Drona Academy have started a whatsapp group "கரம் கொட�
 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
+### October
+Rs 5000 contributed towards the fees of a student for their BA Economics course who was in a tough spot to pay their Rs 9500 sememester fees. 
+
 ### September
 <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
