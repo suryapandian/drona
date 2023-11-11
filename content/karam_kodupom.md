@@ -21,8 +21,10 @@ In the event of <a href = "https://isha.sadhguru.org/uk/en/wisdom/article/what-i
 
 Mrs Archana and Karthik from Arasan Group and Lima fireworks gifted crackers for all the children of Jeevakal, Gandhimathi Ashram and Avai homes.
 
-Drona Adademy extends gratitude to all who made this happen.
-Happy Diwali to everyone!
+<i> Drona Adademy extends gratitude to all who made this happen.
+A hand written note on the funds distribution and diwali wishes from Drona to everyone! <i>
+
+
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 60%; float: left;"> 
 		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/deepawali.jpg" width="100%" height="50%"></img>
