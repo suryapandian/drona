@@ -17,7 +17,7 @@ Here we post the activies that we do every month. If you would also like to cont
 
 ### November
 
-In the event of <a href = "https://isha.sadhguru.org/uk/en/wisdom/article/what-is-diwali-why-diwali-is-celebrated">Deepavali</a>, students, alumnis, friends and family put their hand together to collect a total of around 40,000 rupees. The funds where then used to buy provisions for <a href = "https://jswys.1ngo.in/">Jeevakal homes</a>, <a href ="https://gandhigram.org/avvai-ashram-2/"> Avvai home in Siva Sailam</a> and another orphanage in Chennai. Chains, bangles, blouse for silk skirts and other aminites were also purchased from Saravana Stores and distributed.
+In the event of <a href = "https://isha.sadhguru.org/uk/en/wisdom/article/what-is-diwali-why-diwali-is-celebrated">Deepavali</a>, students, alumnis, friends and family put their hand together to collect a total of around 38,000 rupees. The funds where then used to buy provisions for <a href = "https://jswys.1ngo.in/">Jeevakal homes</a>, <a href ="https://gandhigram.org/avvai-ashram-2/"> Avvai home in Siva Sailam</a> and another orphanage in Chennai. Chains, bangles, blouse for silk skirts and other aminites were also purchased from Saravana Stores and distributed.
 
 Mrs Archana and Karthik from Arasan Group and Lima fireworks gifted crackers for all the children of Jeevakal, Gandhimathi Ashram and Avai homes.
 
