@@ -2,9 +2,9 @@
 description: ""
 paige:
   rss:
-    hide_page: true
+    hide_page: false
   search:
-    hide_page: true
+    hide_page: false
   style: |
     #paige-collections,
     #paige-sections,
@@ -15,6 +15,7 @@ paige:
         font-size: 5rem;
     }
 title: "Drona Academy"
+seo_title: "Sivakasi Group exam coaching center. Meaningful life"
 ---
 
 <p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/courses.jpg?w=1296" width="100%" %}}</p>
