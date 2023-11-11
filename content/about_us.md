@@ -1,5 +1,6 @@
 +++
 title = 'About Us'
+seo_title = 'Sivakasi Drona Academy'
 date = 2023-09-03T20:58:09+01:00
 draft = false
 +++
