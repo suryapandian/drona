@@ -10,6 +10,9 @@ draft = false
 
 Slowly and steadily students of Drona have been blessed with success of various degrees. Here is a list of alumni's who cleared numerous exams via Drona.
 
+### Batch of 2023
+- T.Thalapathy, cleared CGL(Combined Graduate Level Examination) and is posted in Postal Service 
+
 ### Batch of 2022
 - Kishore Kumar T working as Probationary officer in Central Bank of India  by clearing Banking exams
 - Raj Kumar K cleared Banking exams and is serving as the Clerk for the department of Customer Service

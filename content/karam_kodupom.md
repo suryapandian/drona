@@ -13,8 +13,12 @@ draft = false
 Students of Drona Academy have started a whatsapp group "கரம் கொடுப்போம் aka Karam Kodupom" meaning <i>"let us give a hand"</i> in <a href ="https://en.wikipedia.org/wiki/Tamil_language"> Tamil </a>. Every month, they credit some money towards Karam Kodupom and they use that money to help someone in need. 
 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
+
 # 2023
 </br>
+
+### December
+Contributions made towards old age home in Sivkasi.
 
 ### November
 
