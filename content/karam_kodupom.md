@@ -14,6 +14,13 @@ Students of Drona Academy have started a whatsapp group "கரம் கொட�
 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
+# 2024
+</br>
+
+### January
+The Tirunelveli floods affected the livelihood for many. A woman who was the bread winner of the family by making murruku had her motar she used to make murruku in a damaged condition due to the flood and cyclone. Karam Kodupom extends Rs 12,000 to the woman to get her machine fixed and her business started.
+
+
 # 2023
 </br>
 
