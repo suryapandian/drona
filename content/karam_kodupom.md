@@ -20,6 +20,10 @@ Here we post the activies that we do every month. If you would also like to cont
 ### January
 The Tirunelveli floods affected the livelihood for many. A woman who was the bread winner of the family by making murruku had her motar she used to make murruku in a damaged condition due to the flood and cyclone. Karam Kodupom extends Rs 12,000 to the woman to get her machine fixed and her business started.
 
+Linked below is the heart felt thank you note from her.
+
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/tirunelveli_flood_thankyou.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+</br>
 
 # 2023
 </br>
