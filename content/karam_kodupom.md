@@ -17,6 +17,14 @@ Here we post the activies that we do every month. If you would also like to cont
 # 2024
 </br>
 
+### February
+Group4 TNPSC exams are scheduled for June 9, 2024. In the last Group exam a student missed clearing it by few marks. He has since started going to daily waged jobs to make ends meet. To make things easier for him Karam Kodupom pays Rs 4000 so that he could focus on his exams.
+Karam Kodupom is also hoping to continue doing so until June for 4 months.
+
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/student_sponsor.png" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
+
 ### January
 The Tirunelveli floods affected the livelihood for many. A woman who was the bread winner of the family by making murruku had her motar she used to make murruku in a damaged condition due to the flood and cyclone. Karam Kodupom extends Rs 12,000 to the woman to get her machine fixed and her business started.
 
