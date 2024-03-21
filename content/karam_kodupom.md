@@ -15,6 +15,14 @@ Students of Drona Academy have started a whatsapp group "கரம் கொட�
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
 # 2024
+
+</br>
+
+### March
+
+Following last month's update, all funds were handed over to the student so that he could focus on preparing for TNPSC exams.
+
+
 </br>
 
 ### February
