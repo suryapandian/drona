@@ -18,14 +18,7 @@ Here we post the activies that we do every month. If you would also like to cont
 
 </br>
 
-### March
-
-Following last month's update, all funds were handed over to the student so that he could focus on preparing for TNPSC exams.
-
-
-</br>
-
-### February
+### February - June
 Group4 TNPSC exams are scheduled for June 9, 2024. In the last Group exam a student missed clearing it by few marks. He has since started going to daily waged jobs to make ends meet. To make things easier for him Karam Kodupom pays Rs 4000 so that he could focus on his exams.
 Karam Kodupom is also hoping to continue doing so until June for 4 months.
 
