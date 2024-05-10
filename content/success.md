@@ -10,6 +10,9 @@ draft = false
 
 Slowly and steadily students of Drona have been blessed with success of various degrees. Here is a list of alumni's who cleared numerous exams via Drona.
 
+### Batch of 2024
+- Dharsini, selected for Tamilnadu Mercantile Bank clerk 
+
 ### Batch of 2023
 - T.Thalapathy, cleared CGL(Combined Graduate Level Examination) and is posted in Postal Service 
 
