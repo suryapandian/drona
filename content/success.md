@@ -20,6 +20,9 @@ Slowly and steadily students of Drona have been blessed with success of various 
 - Kishore Kumar T working as Probationary officer in Central Bank of India  by clearing Banking exams
 - Raj Kumar K cleared Banking exams and is serving as the Clerk for the department of Customer Service
 
+### Batch of 2021
+- Arun R C working as Probationary officer  in Canara Bank in Ballari by clearning Banking exams
+
 ### Batch of 2018
 
 - Mahalakshmi who cleared TNPSC and got posted as DC Trainee in Revenue department in Tirunelveli. She is currently promoted to Deputy collector.
