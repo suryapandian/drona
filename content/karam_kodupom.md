@@ -22,7 +22,7 @@ Here we post the activies that we do every month. If you would also like to cont
 
 Until Group2 exams are over, Karam Kodupom is offering Rs 4000 to Rajeswari who is going through difficult times managing both family, finances and academics. We wish her the best of luck
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/july_2024.png" width="50%" height="50%" style="padding: 2%"></img>
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2024_july.png" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 ### February - June
