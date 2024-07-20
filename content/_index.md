@@ -1,5 +1,5 @@
 ---
-description: ""
+description: "Group exam coaching center in Sivakasi. Also a place where life coaching, mentoring, skills development for job is provided"
 paige:
   rss:
     hide_page: false
