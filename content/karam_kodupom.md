@@ -18,6 +18,12 @@ Here we post the activies that we do every month. If you would also like to cont
 
 </br>
 
+### August
+
+Karam Kodupom's August fund  was given to students R.Rajeswari Rs.4000 and Mookkaiah Rs. 3000. They appear Group 2 Prelims on Sep 14th 2024 and financial assistance to support their family would free up some space to prepare for exams.
+
+</br>
+
 ### July
 
 Until Group2 exams are over, Karam Kodupom is offering Rs 4000 to Rajeswari who is going through difficult times managing both family, finances and academics. We wish her the best of luck
