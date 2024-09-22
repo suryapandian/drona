@@ -28,7 +28,7 @@ Slowly and steadily students of Drona have been blessed with success of various 
 - Raj Kumar K cleared Banking exams and is serving as the Clerk for the department of Customer Service
 
 ### Batch of 2021
-- Arun R C working as Probationary officer  in Canara Bank in Ballari by clearning Banking exams
+- Arun R C working as Probationary officer  in Canara Bank in Ballari by clearing Banking exams
 
 ### Batch of 2018
 
