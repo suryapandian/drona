@@ -14,6 +14,7 @@ Slowly and steadily students of Drona have been blessed with success of various 
 - Dharsini, selected for Tamilnadu Mercantile Bank clerk 
 - Sundara Vinayagam, placed in Department of indirect tax and Exercise,  GST Department, Tirupathy
 - Vimala, Junior Auditor Co-operative Department
+- P Muthuselvi with the help of disabled association (மாற்றுத் திறனாளிகள் நல ஆணையரகம்) has secured the job as executive assistant for co-operative department
 
 <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/vimala.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
