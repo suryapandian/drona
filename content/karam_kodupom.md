@@ -18,6 +18,11 @@ Here we post the activies that we do every month. If you would also like to cont
 
 </br>
 
+### October
+Funds are continued to be given to support students R.Rajeswari and Mookkaiah
+
+</br>
+
 ### September
 
 This month fund was also given to students R.Rajeswari Rs.4000 and Mookkaiah Rs. 4000. They appear Group 2 Prelims on Sep 14th 2024 and financial assistance to support their family would free up some space to prepare for exams.
