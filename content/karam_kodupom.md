@@ -18,6 +18,26 @@ Here we post the activies that we do every month. If you would also like to cont
 
 </br>
 
+### October - Deepavali
+For two girls orphanages in Sivasailam and Gandhimathi Ashram, daily needs amenities like  brush,  soap,  comb, soap box, towel,  powder, hair bands, bangles,  hair clip and under garments are provided. 
+
+Happy Deepavali! May we be blessed with a blissful life
+
+<div  style="width: 100%; overflow: hidden;">
+	 <div style="width: 33%; float: left;"> 
+		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/diwali1_2024.jpeg" width="100%" height="50%"></img>
+	</div>
+	<div style="margin-left: 35%; width: 33%">
+		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/diwali2_2024.jpeg" width="100%" height="50%" ></img>
+	</div>
+	
+</div>
+</br>
+
+</br>
+
+</br>
+
 ### October
 Funds are continued to be given to support students R.Rajeswari and Mookkaiah
 
