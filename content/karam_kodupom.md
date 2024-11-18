@@ -16,6 +16,9 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2024
 
+### November
+Funds are continued to be given to support students R.Rajeswari and Mookkaiah Rs 4000 each
+
 </br>
 
 ### October - Deepavali
