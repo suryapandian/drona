@@ -47,6 +47,12 @@ name = "Contact Us"
 url = "/contact_us"
 weight = 6
 
+[[languages.en.menu.main]]
+identifier = "contact us"
+name = "Nandana Bags"
+url = "/eco_friendly_bags"
+weight = 7
+
 [markup.goldmark.renderer]
 unsafe = true
 
