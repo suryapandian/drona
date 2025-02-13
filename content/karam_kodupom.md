@@ -14,7 +14,15 @@ Students of Drona Academy have started a whatsapp group "கரம் கொட�
 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
+# 2025
+
+### January and Febraury
+Funds from both the months are given to support students R.Rajeswari and Mookkaiah, Rs 8000. Mokkaiah also cleared the exams in Febraruy with hard work and all the support from "Karam Kodupom"
+
 # 2024
+
+### December
+Funds are continued to be given to support students R.Rajeswari and Mookkaiah Rs 4000 each
 
 ### November
 Funds are continued to be given to support students R.Rajeswari and Mookkaiah Rs 4000 each

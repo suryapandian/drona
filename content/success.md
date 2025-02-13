@@ -10,7 +10,16 @@ draft = false
 
 Slowly and steadily students of Drona have been blessed with success of various degrees. Here is a list of alumni's who cleared numerous exams via Drona.
 
+### Batch of 2025
+
+- Mokkaih cleared government exam, securing himself a job and steady flow of income.
+It is important to note that Mokkaih has also been sponsored by Drona's "Karam Kodupom" wing.
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/mokkaih.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
+
 ### Batch of 2024
+- Satish, promoted to Scale II officer
 - Dharsini, selected for Tamilnadu Mercantile Bank clerk 
 - Sundara Vinayagam, placed in Department of indirect tax and Exercise,  GST Department, Tirupathy
 - Vimala, Junior Auditor Co-operative Department
