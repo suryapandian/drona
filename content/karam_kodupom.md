@@ -16,8 +16,21 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### March
+
+An old couple have their home in a very broken condition. The funds collected this month are sent in an effort to fix their broken home and make it livable before the monsoon begins. Here is the note explaining the case by our founder Ponvalli
+
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/march_2025.png" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
 ### January and Febraury
-Funds from both the months are given to support students R.Rajeswari and Mookkaiah, Rs 8000. Mokkaiah also cleared the exams in Febraruy with hard work and all the support from "Karam Kodupom"
+Funds from both the months are given to support students R.Rajeswari and Mookkaiah, Rs 8000. 
+
+🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉
+
+Mokkaiah also cleared the exams in Febraruy with hard work and all the support from "Karam Kodupom"
+
+🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉 🎉
 
 # 2024
 
