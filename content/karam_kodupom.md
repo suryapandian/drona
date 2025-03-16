@@ -20,7 +20,15 @@ Here we post the activies that we do every month. If you would also like to cont
 
 An old couple have their home in a very broken condition. The funds collected this month are sent in an effort to fix their broken home and make it livable before the monsoon begins. Here is the note explaining the case by our founder Ponvalli
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/march_2025.png" width="50%" height="50%" style="padding: 2%"></img>
+<div  style="width: 100%; overflow: hidden;">
+	 <div style="width: 33%; float: left;"> 
+		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/home-renovation.jpeg" width="100%" height="50%"></img>
+	</div>
+	<div style="margin-left: 35%; width: 33%">
+		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/march_2025.png" width="100%" height="50%" ></img>
+	</div>
+	
+</div>
 </br>
 
 ### January and Febraury
