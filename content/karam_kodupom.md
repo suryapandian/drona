@@ -16,6 +16,12 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### April
+
+Ms. Rajeswari Rs. 4000 and a student from AJ college (Sundar reference) is not able to pay the college fees.She needs Rs. 11000. With the help of Sibi,karam kodupom paid Rs. 11000 this month for her.Without payment of fees she couldn't get her hall ticket for the semester exam.Thank you very much and special thanks to Sibi. 
+
+_Every month plan and allocate something for the welfare of the society. Join hands with karam Kodupom_
+
 ### March
 
 An old couple have their home in a very broken condition. The funds collected this month are sent in an effort to fix their broken home and make it livable before the monsoon begins. Here is the note explaining the case by our founder Ponvalli
