@@ -19,7 +19,9 @@ Here we post the activies that we do every month. If you would also like to cont
 ### May
 
 We're happy to share that this month, your generous contributions helped support two meaningful causes:
+
 🎓 We assisted R. Rajeswari and Sumathy's son with admission to a self-finance course at AJ College, opening up new educational opportunities for their future.
+
 📚 Additionally, we were able to purchase several much-needed inspiring comic books for our learners at Drona.
 
 <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/books_2025_may.jpeg" width="50%" height="50%" style="padding: 2%"></img>
