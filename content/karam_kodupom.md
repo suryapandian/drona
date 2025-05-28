@@ -16,6 +16,16 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### May
+
+We're happy to share that this month, your generous contributions helped support two meaningful causes:
+🎓 We assisted R. Rajeswari and Sumathy's son with admission to a self-finance course at AJ College, opening up new educational opportunities for their future.
+📚 Additionally, we were able to purchase several much-needed inspiring comic books for our learners at Drona.
+
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/books_2025_may.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
+
 ### April
 
 Ms. Rajeswari Rs. 4000 and a student from AJ college (Sundar reference) is not able to pay the college fees.She needs Rs. 11000. With the help of Sibi,karam kodupom paid Rs. 11000 this month for her.Without payment of fees she couldn't get her hall ticket for the semester exam.Thank you very much and special thanks to Sibi. 

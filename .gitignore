@@ -1,1 +1,3 @@
 *.webp
+public/*
+resources/*
