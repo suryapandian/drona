@@ -20,9 +20,10 @@ Here we post the activies that we do every month. If you would also like to cont
 
 This month, the Drona family continued its consistent support by sponsoring Ms. R. Rajeswari with ₹4,000 to assist with her living and educational expenses.
 
-In addition to that, we extended ₹26, 000  to a teenage girl working hard to pursue her college education. Her college fee payment was made possible thanks to contributions from the group — with a special thanks to Sam Sir for his generous support.
+In addition to that, we extended around ₹26,000  to a teenage girl working hard to pursue her college education. Her college fee payment was made possible thanks to contributions from the group — with a special thanks to Sam Sir for his generous support.
 
-We’re proud to keep showing up for those who need us. Your monthly contributions are making real, lasting changes. Let's keep going!
+We’re proud to keep showing up for those who need us. Your monthly contributions are making real, lasting changes. welcome to join us!
+
 
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 33%; float: left;"> 
