@@ -16,6 +16,10 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### July
+
+We're pleased to announce that an amount of Rs. 4,000 has been handed over to Ms. Rajeswari this July, continuing our support for her living and educational expenses. Your generous contributions through KaraM KodupoM make a real difference in the lives of individuals like Ms. Rajeswari.
+
 ### June 
 
 This month, the Drona family continued its consistent support by sponsoring Ms. R. Rajeswari with ₹4,000 to assist with her living and educational expenses.
