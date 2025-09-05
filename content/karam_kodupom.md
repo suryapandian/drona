@@ -16,11 +16,19 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### September
+
+This September reminds us that generosity is the greatest healing power. With the collected fund Rs.18600, we stand beside those fighting battles of illness and hardship. The support given to a poor woman in her treatment, and to R. Rajeswari in her time of need.
+
+### August
+
+Every small act of kindness carries the power to change lives. This August, our humble contributions of Rs8000 became a source of hope — helping one woman fight for her husband’s life, and another young woman continue her journey of learning and growth.
+
 ### July
 
 We're pleased to announce that an amount of Rs. 4,000 has been handed over to Ms. Rajeswari this July, continuing our support for her living and educational expenses. Your generous contributions through KaraM KodupoM make a real difference in the lives of individuals like Ms. Rajeswari.
 
-### June 
+### June
 
 This month, the Drona family continued its consistent support by sponsoring Ms. R. Rajeswari with ₹4,000 to assist with her living and educational expenses.
 
@@ -202,14 +210,14 @@ Rs 5000 contributed towards the fees of a student for their BA Economics course 
 </br>
 Rs 7000 has given to Vinmeen mentally retarded Girls Training Institute on the celebration of Rakshabandan. They participated in games, do computer data entry , making dolls and mats 
 
-### August: 
+### August:
 
  Funds handed over to Saranya devi. She asked us to pay tuition for her child to pay school  fees after sudden demise of the child's father                 
 
-### July: 
+### July:
 
  Rs 6600 to Ms Elizabeth who got injury in her leg and couldn't walk. She is now under treatment now. She worked as a sweeper in a school. She takes care of elderly people those who needs care. She can't do hard work. Next month She will be ready to do work 
 
-### June: 
+### June:
 
  Rs 7000 to Ms Elizabeth who got injury in her leg and couldn't walk. She is now under treatment now. She worked as a sweeper in a school. 
