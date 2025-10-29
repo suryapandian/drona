@@ -16,6 +16,15 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### October
+
+With the generous support of our community, all intended Diwali gifts were delivered to both the Gandhimathi Ashram and the Avvai Ashram.
+
+We extend our sincere thanks to all our young supporters. The time spent with the children at these Ashrams was a wonderful and enriching experience for our team.
+
+<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
 ### September
 
 This September reminds us that generosity is the greatest healing power. With the collected fund Rs.18600, we stand beside those fighting battles of illness and hardship. The support given to a poor woman in her treatment, and to R. Rajeswari in her time of need.
