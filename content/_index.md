@@ -18,7 +18,7 @@ title: "Drona Academy"
 seo_title: "Sivakasi Group exam coaching center. Meaningful life"
 ---
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/courses.jpg?w=1296" width="100%" %}}</p>
+<p>{{% paige/image alt="Drona Academy Courses" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="/images/general/courses.jpg" width="100%" %}}</p>
 
 <p class="display-5 fw-bold h2 text-center">Building Nation</p>
 

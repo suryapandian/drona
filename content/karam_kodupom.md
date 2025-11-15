@@ -5,7 +5,7 @@ date = 2023-09-03T18:50:35+01:00
 draft = false
 +++
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/joinUs.jpg?w=1296" width="100%" %}}</p>
+<p>{{% paige/image alt="Join Us at Drona Academy" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="/images/general/joinUs.jpg" width="100%" %}}</p>
 
 </br>
 </br>
@@ -16,6 +16,11 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### November
+
+Fundsare given to support students R.Rajeswari Rs 4000 for her treatment. 
+
+
 ### October
 
 With the generous support of our community, all intended Diwali gifts were delivered to both the Gandhimathi Ashram and the Avvai Ashram.
@@ -24,19 +29,12 @@ We extend our sincere thanks to all our young supporters. The time spent with th
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 50%; float: left;"> 
-        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025.jpeg" width="100%" height="50%" style="padding: 2%"></img>
+        <img src="/images/monthly-updates/oct_2025.jpeg" width="100%" style="padding: 2%; margin-bottom: 0;"></img>
+        <img src="/images/monthly-updates/oct_2025_recipet.jpeg" width="100%" style="padding: 2%; margin-top: 0;"></img>
     </div>
-    <div style="margin-left: 52%; width: 48%">
-        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025_diwali_breakdown.jpeg" width="100%" height="50%" style="padding: 2%"></img>
-    </div>
-</div>
-
-<div style="width: 100%; overflow: hidden;">
-    <div style="width: 50%; float: left;"> 
-        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025_recipet.jpeg" width="100%" height="50%" style="padding: 2%"></img>
-    </div>
-    <div style="margin-left: 52%; width: 48%">
-        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025_recipet2.jpeg" width="100%" height="50%" style="padding: 2%"></img>
+    <div style="width: 50%; float: right;">
+        <img src="/images/monthly-updates/oct_2025_diwali_breakdown.jpeg" width="100%" style="padding: 2%"></img>
+        <img src="/images/monthly-updates/oct_2025_recipet2.jpeg" width="100%" style="padding: 2%"></img>
     </div>
 </div>
 </br>
@@ -64,13 +62,13 @@ We’re proud to keep showing up for those who need us. Your monthly contributio
 
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 33%; float: left;"> 
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/june_2025_bill.jpeg" width="100%" height="50%"></img>
+		<img src="/images/monthly-updates/june_2025_bill.jpeg" width="100%" height="50%"></img>
 	</div>
 	<div style="margin-left: 35%; width: 33%">
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2025_june_letter.png" width="100%" height="50%" ></img>
+		<img src="/images/monthly-updates/2025_june_letter.png" width="100%" height="50%" ></img>
 	</div>
 	<div style="margin-left: 35%; width: 33%">
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2025_june_letter2.png" width="100%" height="30%" ></img>
+		<img src="/images/monthly-updates/2025_june_letter2.png" width="100%" height="30%" ></img>
 	</div>
 	
 </div>
@@ -85,7 +83,7 @@ We're happy to share that this month, your generous contributions helped support
 
 📚 Additionally, we were able to purchase several much-needed inspiring comic books for our learners at Drona.
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/books_2025_may.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/monthly-updates/books_2025_may.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 
@@ -101,10 +99,10 @@ An old couple have their home in a very broken condition. The funds collected th
 
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 33%; float: left;"> 
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/home-renovation.jpeg" width="100%" height="50%"></img>
+		<img src="/images/home-renovation.jpeg" width="100%" height="50%"></img>
 	</div>
 	<div style="margin-left: 35%; width: 33%">
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/march_2025.png" width="100%" height="50%" ></img>
+		<img src="/images/monthly-updates/march_2025.png" width="100%" height="50%" ></img>
 	</div>
 	
 </div>
@@ -136,10 +134,10 @@ Happy Deepavali! May we be blessed with a blissful life
 
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 33%; float: left;"> 
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/diwali1_2024.jpeg" width="100%" height="50%"></img>
+		<img src="/images/monthly-updates/diwali1_2024.jpeg" width="100%" height="50%"></img>
 	</div>
 	<div style="margin-left: 35%; width: 33%">
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/diwali2_2024.jpeg" width="100%" height="50%" ></img>
+		<img src="/images/monthly-updates/diwali2_2024.jpeg" width="100%" height="50%" ></img>
 	</div>
 	
 </div>
@@ -160,10 +158,10 @@ This month fund was also given to students R.Rajeswari Rs.4000 and Mookkaiah Rs.
 
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 33%; float: left;"> 
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2024_sept1.jpeg" width="100%" height="50%"></img>
+		<img src="/images/monthly-updates/2024_sept1.jpeg" width="100%" height="50%"></img>
 	</div>
 	<div style="margin-left: 35%; width: 33%">
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2024_sept2.jpeg" width="100%" height="50%" ></img>
+		<img src="/images/monthly-updates/2024_sept2.jpeg" width="100%" height="50%" ></img>
 	</div>
 	
 </div>
@@ -179,14 +177,14 @@ Karam Kodupom's August fund  was given to students R.Rajeswari Rs.4000 and Mookk
 
 Until Group2 exams are over, Karam Kodupom is offering Rs 4000 to Rajeswari who is going through difficult times managing both family, finances and academics. We wish her the best of luck
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2024_july.png" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/monthly-updates/2024_july.png" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 ### February - June
 Group4 TNPSC exams are scheduled for June 9, 2024. In the last Group exam a student missed clearing it by few marks. He has since started going to daily waged jobs to make ends meet. To make things easier for him Karam Kodupom pays Rs 4000 so that he could focus on his exams.
 Karam Kodupom is also hoping to continue doing so until June for 4 months.
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/student_sponsor.png" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/student_sponsor.png" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 
@@ -195,7 +193,7 @@ The Tirunelveli floods affected the livelihood for many. A woman who was the bre
 
 Linked below is the heart felt thank you note from her.
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/tirunelveli_flood_thankyou.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/tirunelveli_flood_thankyou.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 # 2023
@@ -216,10 +214,10 @@ A hand written note on the funds distribution and diwali wishes from Drona to ev
 
 <div  style="width: 100%; overflow: hidden;">
 	 <div style="width: 60%; float: left;"> 
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/deepawali.jpg" width="100%" height="50%"></img>
+		<img src="/images/deepawali.jpg" width="100%" height="50%"></img>
 	</div>
 	<div style="margin-left: 35%; padding: 2%;">
-		<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/Deepavali_details.png" width="40%" height="50%" ></img>
+		<img src="/images/Deepavali_details.png" width="40%" height="50%" ></img>
 	</div>
 	
 </div>
@@ -231,7 +229,7 @@ Photo by <a href="https://unsplash.com/@econut?utm_content=creditCopyText&utm_me
 Rs 5000 contributed towards the fees of a student for their BA Economics course who was in a tough spot to pay their Rs 9500 sememester fees. 
 
 ### September
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/2023_sept.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/monthly-updates/2023_sept.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 Rs 7000 has given to Vinmeen mentally retarded Girls Training Institute on the celebration of Rakshabandan. They participated in games, do computer data entry , making dolls and mats 
 

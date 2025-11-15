@@ -10,7 +10,7 @@ Drona academy was founded by Pon Valli mam. Having majored in maths and computer
 <!-- </br>
 </br>
 <center> 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/valli.jpeg" ></img> </br>
+<img src="/images/valli.jpeg" ></img> </br>
 <i> Pon Valli Mam at the September 2023 Rakshabandan event at Vinmeen mentally retarded Girls Training Institute </i>
 </center>
 </br>

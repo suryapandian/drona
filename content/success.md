@@ -5,7 +5,7 @@ date = 2023-11-11T14:20:34Z
 draft = false
 +++
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/trophies.jpg?w=1296" width="100%" %}}</p>
+<p>{{% paige/image alt="Success Trophies at Drona Academy" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="/images/general/trophies.jpg" width="100%" %}}</p>
 
 
 Slowly and steadily students of Drona have been blessed with success of various degrees. Here is a list of alumni's who cleared numerous exams via Drona.
@@ -14,7 +14,7 @@ Slowly and steadily students of Drona have been blessed with success of various 
 
 - Mokkaih cleared government exam, securing himself a job and steady flow of income.
 It is important to note that Mokkaih has also been sponsored by Drona's "Karam Kodupom" wing.
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/mokkaih.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/mokkaih.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 
@@ -25,7 +25,7 @@ It is important to note that Mokkaih has also been sponsored by Drona's "Karam K
 - Vimala, Junior Auditor Co-operative Department
 - P Muthuselvi with the help of disabled association (மாற்றுத் திறனாளிகள் நல ஆணையரகம்) has secured the job as executive assistant for co-operative department
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/vimala.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+<img src="/images/vimala.jpeg" width="50%" height="50%" style="padding: 2%"></img>
 </br>
 
 

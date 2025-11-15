@@ -1,0 +1,22 @@
+{
+  "name": "drona-academy",
+  "version": "1.0.0",
+  "description": "Static website for Drona Academy built with Hugo and Paige theme",
+  "scripts": {
+    "dev": "hugo server --buildDrafts --buildFuture",
+    "build": "hugo --gc --minify",
+    "preview": "hugo server --buildDrafts --buildFuture --bind 0.0.0.0",
+    "clean": "rm -rf public resources"
+  },
+  "keywords": [
+    "hugo",
+    "static-site",
+    "education",
+    "academy"
+  ],
+  "author": "Drona Academy",
+  "license": "MIT",
+  "devDependencies": {
+    "hugo-extended": "^0.119.0"
+  }
+}

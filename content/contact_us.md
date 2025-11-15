@@ -6,7 +6,7 @@ draft = false
 +++
    <center>
    <p style="text-align:center;">
-   <a href="https://wa.me/918870779022"><img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/WhatsApp.png"></img></a>   
+   <a href="https://wa.me/918870779022"><img src="/images/WhatsApp.png"></img></a>   
 
    </br>
    </br>   

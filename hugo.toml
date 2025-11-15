@@ -1,9 +1,18 @@
 baseURL = 'https://drona-academy.netlify.app/'
 languageCode = 'en-us'
-title = 'Drona academy'
+title = 'Drona Academy'
 theme = 'paige'
 enablerobotstxt = true
 titlecasestyle = "Go"
+
+[params]
+description = "Drona Academy - Empowering education and community through learning initiatives and charitable work"
+author = "Drona Academy"
+keywords = ["education", "learning", "charity", "community", "courses", "academy"]
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
 
 [[module.imports]]
 
