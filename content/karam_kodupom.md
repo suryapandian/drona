@@ -18,7 +18,7 @@ Here we post the activies that we do every month. If you would also like to cont
 
 ### November
 
-Fundsare given to support students R.Rajeswari Rs 4000 for her treatment. 
+Rs 4000 is given to support student R.Rajeswari  for her treatment. This will help her recover and provide some support to focus on studies.
 
 
 ### October
