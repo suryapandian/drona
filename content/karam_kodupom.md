@@ -22,7 +22,23 @@ With the generous support of our community, all intended Diwali gifts were deliv
 
 We extend our sincere thanks to all our young supporters. The time spent with the children at these Ashrams was a wonderful and enriching experience for our team.
 
-<img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025.jpeg" width="50%" height="50%" style="padding: 2%"></img>
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 50%; float: left;"> 
+        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025.jpeg" width="100%" height="50%" style="padding: 2%"></img>
+    </div>
+    <div style="margin-left: 52%; width: 48%">
+        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025_diwali_breakdown.jpeg" width="100%" height="50%" style="padding: 2%"></img>
+    </div>
+</div>
+
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 50%; float: left;"> 
+        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025_recipet.jpeg" width="100%" height="50%" style="padding: 2%"></img>
+    </div>
+    <div style="margin-left: 52%; width: 48%">
+        <img src="https://raw.githubusercontent.com/suryapandian/drona/main/content/images/oct_2025_recipet2.jpeg" width="100%" height="50%" style="padding: 2%"></img>
+    </div>
+</div>
 </br>
 
 ### September
