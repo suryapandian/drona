@@ -16,6 +16,21 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2025
 
+### December
+
+With your generous support, we were able to provide financial assistance to those in need:
+
+- Rs. 4000 given to Ms. Rajeswari (child of DRONA) for treatment.
+
+- Rs. 4000 given for Sumanth Akka's son's semester fees.
+
+- Remaining Rs. 6467 will go to Devi (child of DRONA) for a liver operation.
+
+- Viswa received a programming course and storybooks (Rs. 1000) to help him prepare for a job.
+
+- Swarna Kuppili received the Amar Chitra Katha series to promote inspiring biographical history. (Rs 500)
+
+
 ### November
 
 Rs 4000 is given to support student R.Rajeswari  for her treatment. This will help her recover and provide some support to focus on studies.
