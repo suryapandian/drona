@@ -77,3 +77,77 @@ For videos
 - Constructive perspective and solutions
 
 - Coherence, grammar, and presentation
+
+</br>
+
+## Submit Your Entry
+
+Ready to participate? Fill out the form below to submit your competition entry:
+
+<form name="competition-submission" method="POST" netlify>
+  <div style="margin-bottom: 20px;">
+    <label for="fullname" style="display: block; margin-bottom: 8px; font-weight: 500;">Full Name <span style="color: red;">*</span></label>
+    <input type="text" id="fullname" name="fullname" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="email" style="display: block; margin-bottom: 8px; font-weight: 500;">Email Address <span style="color: red;">*</span></label>
+    <input type="email" id="email" name="email" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="phone" style="display: block; margin-bottom: 8px; font-weight: 500;">Phone Number <span style="color: red;">*</span></label>
+    <input type="tel" id="phone" name="phone" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="age" style="display: block; margin-bottom: 8px; font-weight: 500;">Age <span style="color: red;">*</span></label>
+    <input type="number" id="age" name="age" min="1" max="100" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="school" style="display: block; margin-bottom: 8px; font-weight: 500;">School/College Name <span style="color: red;">*</span></label>
+    <input type="text" id="school" name="school" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="topic" style="display: block; margin-bottom: 8px; font-weight: 500;">Select Topic <span style="color: red;">*</span></label>
+    <select id="topic" name="topic" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+      <option value="">-- Choose a topic --</option>
+      <option value="topic1">Topic 1: The Blind Spot of Love</option>
+      <option value="topic2">Topic 2: Everyday Acts of Resistance</option>
+      <option value="topic3">Topic 3: Beyond the Stereotype</option>
+    </select>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="format" style="display: block; margin-bottom: 8px; font-weight: 500;">Submission Format <span style="color: red;">*</span></label>
+    <select id="format" name="format" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box;">
+      <option value="">-- Choose format --</option>
+      <option value="essay">Essay</option>
+      <option value="youtube">YouTube Video</option>
+      <option value="instagram">Instagram Video</option>
+    </select>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label for="submission" style="display: block; margin-bottom: 8px; font-weight: 500;">Submission Link/Details <span style="color: red;">*</span></label>
+    <textarea id="submission" name="submission" rows="4" placeholder="Paste the link to your essay/video or provide submission details" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; box-sizing: border-box; font-family: Arial, sans-serif;"></textarea>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label style="display: flex; align-items: center; font-size: 14px;">
+      <input type="checkbox" id="confirm-age" name="confirm-age" required style="margin-right: 10px;">
+      <span>I confirm that I am under 25 years of age <span style="color: red;">*</span></span>
+    </label>
+  </div>
+
+  <div style="margin-bottom: 20px;">
+    <label style="display: flex; align-items: center; font-size: 14px;">
+      <input type="checkbox" id="confirm-rules" name="confirm-rules" required style="margin-right: 10px;">
+      <span>I agree to the competition rules and assessment criteria <span style="color: red;">*</span></span>
+    </label>
+  </div>
+
+  <button type="submit" style="background-color: #007bff; color: white; padding: 12px 30px; border: none; border-radius: 4px; font-size: 16px; font-weight: 600; cursor: pointer;">Submit Entry</button>
+</form>
