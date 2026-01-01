@@ -39,28 +39,34 @@ url = "/courses"
 weight = 3
 
 [[languages.en.menu.main]]
+identifier = "competitions"
+name = "Competitions"
+url = "/competitions"
+weight = 4
+
+[[languages.en.menu.main]]
 identifier = "alumni"
 name = "Alumni"
 url = "/success"
-weight = 4
+weight = 5
 
 [[languages.en.menu.main]]
 identifier = "about us"
 name = "About Us"
 url = "/about_us"
-weight = 5
+weight = 6
 
 [[languages.en.menu.main]]
 identifier = "contact us"
 name = "Contact Us"
 url = "/contact_us"
-weight = 6
+weight = 7
 
 [[languages.en.menu.main]]
 identifier = "eco friendly bags"
 name = "Nandana Bags"
 url = "/eco_friendly_bags"
-weight = 7
+weight = 8
 
 [markup.goldmark.renderer]
 unsafe = true
