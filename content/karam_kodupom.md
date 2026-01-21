@@ -26,8 +26,10 @@ We are deeply grateful to **Drona Academy** for their generous contribution of *
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 50%; float: left;">
-        <img src="/images/Jan_2026.jpeg" width="100%" style="padding: 2%; margin-bottom: 0;"></img>
-        <img src="/images/Jan_2026_recipet.jpeg" width="100%" style="padding: 2%; margin-top: 0;"></img>
+        <img src="/images/Jan_2026.jpeg" width="100%" style="padding: 2%;"></img>
+    </div>
+    <div style="width: 50%; float: right;">
+        <img src="/images/Jan_2026_recipet.jpeg" width="100%" style="padding: 2%;"></img>
     </div>
 </div>
 </br>
