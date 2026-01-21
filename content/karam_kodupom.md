@@ -18,7 +18,7 @@ Here we post the activies that we do every month. If you would also like to cont
 
 ### January
 
-- Rs 700 for Pujarani for raising awareness in rural India about importance of education for women and children and questioning patriarchal norms
+- Rs 700 for <a href="https://www.instagram.com/lifeofpujaa/">Pujarani</a> for raising awareness in rural India about importance of education for women and children and questioning patriarchal norms
 
 - ₹10,600 towards Mariya's treatment. Every bit of support brings us closer to giving Mariya the care she urgently needs
 
