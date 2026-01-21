@@ -14,6 +14,25 @@ Students of Drona Academy have started a whatsapp group "கரம் கொட�
 
 Here we post the activies that we do every month. If you would also like to contribute please <a href="/contact_us">reach out to us.</a>
 
+# 2026
+
+### January
+
+- Rs 700 for PoojaRani for raising awareness in rural India about importance of education for women and children and questioning patriarchal norms
+
+**Update on #SaveMariyaIda**
+
+We are deeply grateful to **Drona Academy** for their generous contribution of **₹10,600** towards Mariya's treatment. Every bit of support brings us closer to giving Mariya the care she urgently needs
+
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 50%; float: left;">
+        <img src="/images/Jan_2026.jpeg" width="100%" style="padding: 2%; margin-bottom: 0;"></img>
+        <img src="/images/Jan_2026_recipet.jpeg" width="100%" style="padding: 2%; margin-top: 0;"></img>
+    </div>
+</div>
+</br>
+
+
 # 2025
 
 ### December
