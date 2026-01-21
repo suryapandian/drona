@@ -20,9 +20,7 @@ Here we post the activies that we do every month. If you would also like to cont
 
 - Rs 700 for PoojaRani for raising awareness in rural India about importance of education for women and children and questioning patriarchal norms
 
-**Update on #SaveMariyaIda**
-
-We are deeply grateful to **Drona Academy** for their generous contribution of **₹10,600** towards Mariya's treatment. Every bit of support brings us closer to giving Mariya the care she urgently needs
+- ₹10,600 towards Mariya's treatment. Every bit of support brings us closer to giving Mariya the care she urgently needs
 
 <div style="width: 100%; overflow: hidden;">
     <div style="width: 50%; float: left;">
