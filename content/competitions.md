@@ -78,6 +78,8 @@ For videos
 
 - Coherence, grammar, and presentation
 
+### DeadLine: July 15th 00:00 AM IST
+
 </br>
 
 ## Submit Your Entry
