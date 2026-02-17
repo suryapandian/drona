@@ -1,6 +1,7 @@
 +++
 title = 'Contact Us'
-seo_title = 'Sivakasi Drona Academy Address'
+seo_title = 'Contact Drona Academy - Sivakasi Location & Details'
+description = "Contact Drona Academy Sivakasi. Located at Bharathiagar, Sivakasi 626124, Tamil Nadu. Call +91 8870779022 or email drona.buildingnation@gmail.com"
 date = 2023-09-03T22:18:13+01:00
 draft = false
 +++

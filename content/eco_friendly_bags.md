@@ -1,6 +1,7 @@
 +++
 title = 'Nandana Bags'
-seo_title = 'Eco friendly bags made by women'
+seo_title = 'Nandana Eco-Friendly Bags - Handmade by Rural Women'
+description = "Nandana Bags - Eco-friendly, handmade bags produced by women from rural Tirunelveli. Support sustainable fashion and women empowerment. Order online at Drona Academy."
 date = 2023-09-03T20:58:09+01:00
 draft = false
 +++

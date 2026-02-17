@@ -1,5 +1,5 @@
 ---
-description: "Group exam coaching center in Sivakasi. Also a place where life coaching, mentoring, skills development for job is provided"
+description: "Drona Academy Sivakasi - Premier coaching center for UPSC, bank exams, group exams, and school tuitions. Empowering rural students with quality education and life skills."
 paige:
   rss:
     hide_page: false
@@ -15,7 +15,7 @@ paige:
         font-size: 5rem;
     }
 title: "Drona Academy"
-seo_title: "Sivakasi Group exam coaching center. Meaningful life"
+seo_title: "Drona Academy Sivakasi - UPSC, Bank Exams & Group Exam Coaching"
 ---
 
 <p>{{% paige/image alt="Drona Academy Courses" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="/images/general/courses.jpg" width="100%" %}}</p>

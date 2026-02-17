@@ -6,9 +6,9 @@ enablerobotstxt = true
 titlecasestyle = "Go"
 
 [params]
-description = "Drona Academy - Empowering education and community through learning initiatives and charitable work"
+description = "Drona Academy - Sivakasi coaching center for UPSC, bank exams, group exams, and school tuitions. Helping rural students excel in academics and life."
 author = "Drona Academy"
-keywords = ["education", "learning", "charity", "community", "courses", "academy"]
+keywords = ["Drona Academy Sivakasi", "coaching center Sivakasi", "UPSC coaching Sivakasi", "bank exam coaching", "group exam coaching", "tuition Sivakasi", "Tamil Nadu exams", "education Sivakasi"]
 
 [sitemap]
 changefreq = "weekly"

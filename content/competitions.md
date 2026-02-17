@@ -1,6 +1,7 @@
 +++
 title = 'Annual Competitions'
-seo_title = 'Annual Competitions - Drona Academy'
+seo_title = 'Annual Competitions & Student Contests - Drona Academy'
+description = "Drona Academy Sivakasi hosts annual competitions for students. Submit essays and videos on themes like patriarchy, gender equality, and social awareness. Prize pool up to Rs 10,000."
 date = 2026-01-01T00:00:00+01:00
 draft = false
 +++

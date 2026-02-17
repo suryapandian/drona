@@ -1,6 +1,7 @@
 +++
 title = 'KaraM KodupoM'
-seo_title = 'Sivakasi Orphanage Homes Donation Tamil Nadu'
+seo_title = 'Karam Kodupom - Charity & Community Support by Drona Academy'
+description = "Karam Kodupom is a charity initiative by Drona Academy Sivakasi students supporting education, healthcare, and livelihood for underprivileged families in Tamil Nadu."
 date = 2023-09-03T18:50:35+01:00
 draft = false
 +++

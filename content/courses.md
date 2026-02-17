@@ -1,6 +1,7 @@
 +++
 title = 'Courses offered'
-seo_title = 'Sivakasi Group exam preparations'
+seo_title = 'Coaching Courses - UPSC, Bank Exams, Group Exams Sivakasi'
+description = "Drona Academy Sivakasi offers coaching for UPSC, bank exams, SSC, TNPSC group exams, and school tuitions. Expert guidance for civil service, defense, and government exams."
 date = 2023-09-03T22:57:46+01:00
 draft = false
 +++

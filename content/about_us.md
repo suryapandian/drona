@@ -1,6 +1,7 @@
 +++
 title = 'About Us'
-seo_title = 'Sivakasi Drona Academy'
+seo_title = 'About Drona Academy Sivakasi'
+description = "Learn about Drona Academy Sivakasi, founded by Pon Valli Mam. A leading coaching center dedicated to empowering rural students in Tamil Nadu with quality education."
 date = 2023-09-03T20:58:09+01:00
 draft = false
 +++
