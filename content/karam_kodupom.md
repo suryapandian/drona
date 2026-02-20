@@ -19,6 +19,11 @@ Here we post the activies that we do every month. If you would also like to cont
 
 ### February
 - Rs 3000 given <a href ="https://donateabook.org.in/product/aram-porul-a-library-for-tribal-children-in-kalrayan-hills/"> towards books for aram porul a library for trival children in kalrayan hills </a>. 
+- Books worth Rs 1000 towards Paathshala an NGO in Rajasthan that rescues trafficked children
+
+<img src="/images/monthly-updates/paathshala.png" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
 
 ### January
 

@@ -2,6 +2,7 @@
 /public/
 /resources/
 *.webp
+.claude/
 
 # Local development
 .hugo_build.lock
