@@ -28,7 +28,7 @@ Submission accepted in the forms of
 - First prize: Rs 10,000 
 - Second prize: Rs 5,000
 - Third prize: Rs 2,500
-- Consolation prizes: Book bundles
+- Consolation prizes: Books
 
 
 ### Topic 1: “The Blind Spot of Love: Recognising Bias Towards Loved Ones While Confronting Patriarchy and Misogyny”
@@ -88,6 +88,16 @@ For videos
 11 October also celebrating "International Day of the Girl Child"
 
 </br>
+
+### References and examples for videos:
+<ul>
+  <li><a href="https://instagram.com/lifeofpujaa" target="_blank">Life of Pujaa - @lifeofpujaa</a></li>
+  <li><a href="https://instagram.com/thewomenofcinema" target="_blank">The Women of Cinema - @thewomenofcinema</a></li>
+  <li><a href="https://instagram.com/parithabangal__official" target="_blank">Parithabangal - @parithabangal__official</a></li>
+  <li><a href="https://www.instagram.com/shrewdtea_/" target="_blank">Shruti Singh</a></li>
+  <li><a href="https://www.instagram.com/curioustakes/" target="_blank">Curious Takes</a></li>
+</ul>
+
 
 ## Submit Your Entry
 
