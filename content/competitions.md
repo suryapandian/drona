@@ -8,9 +8,11 @@ draft = false
 
 ## About Our Competitions
 
-Annual competitions to foster a spirit of healthy competition, encourage academic excellence, and provide a platform for students to showcase their talents and knowledge.
+These annual competitions foster healthy competition, encourage academic excellence, and provide a platform for students to showcase their talents. This year's edition is held in special remembrance of Dr. Muthulakshmi Reddy.
 
+Dr. Muthulakshmi Reddy walked into Madras Medical College in 1907 as the **only woman in the room** — and she didn't just survive it, she walked out with **seven gold medals**. When society told her medicine wasn't for women, she became a surgeon. When they said politics wasn't for women, she became India's first woman legislator. When she saw women suffering from cancer with nowhere to turn, she **built them a hospital with her own hands**. She didn't wait for permission, she didn't wait for the world to be ready — she just kept moving, kept fighting, kept building. If she could dismantle an entire system in an era that had every rule stacked against her, **what's your excuse?**
 
+Wait no more and win at life, starting from this competition!
 
 </br>
 
@@ -79,7 +81,11 @@ For videos
 
 - Coherence, grammar, and presentation
 
-### DeadLine: July 15th 00:00 AM IST
+### Deadline: July 30th, 00:00 AM IST
+(Dr. Muthulakshmi Reddy's birth anniversary — 30 July 1886)
+
+### Winner announcement
+11 October also celebrating "International Day of the Girl Child"
 
 </br>
 
