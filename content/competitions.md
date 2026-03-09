@@ -64,8 +64,8 @@ For essays
 - Word Limit: 1000–1500 words
 For videos
 - Video duration: not more than 5min
-
 - Language: Simple, thoughtful, reflective, real life examples and evidence-based
+
 
 ### Assessment Criteria:
 
@@ -81,11 +81,11 @@ For videos
 
 - Easy to comprehend presentation
 
-### Deadline: July 30th, 00:00 AM IST
-(Dr. Muthulakshmi Reddy's birth anniversary — 30 July 1886)
+### Deadline: 11 October, 00:00 AM IST
+Also celebrating "International Day of the Girl Child"
 
 ### Winner announcement
-11 October also celebrating "International Day of the Girl Child"
+12 December 
 
 </br>
 
