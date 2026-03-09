@@ -79,7 +79,7 @@ For videos
 
 - Constructive perspective and solutions
 
-- Coherence, grammar, and presentation
+- Easy to comprehend presentation
 
 ### Deadline: July 30th, 00:00 AM IST
 (Dr. Muthulakshmi Reddy's birth anniversary — 30 July 1886)
