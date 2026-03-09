@@ -77,7 +77,7 @@ For videos
 
 - Constructive perspective and solutions
 
-- Coherence, grammar, and presentation
+- Easy to comprehend presentation
 
 ### DeadLine: July 15th 00:00 AM IST
 
