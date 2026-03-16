@@ -17,6 +17,31 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### March
+
+<ul>
+  <li>
+    <strong>Rs 2,500</strong> towards the 
+    <a href="https://donateabook.org.in/product/jvmesk-one-book-one-child-reading-journey-manwat/">
+    "One Book, One Child"</a> reading journey in Manwat, Maharashtra. By fostering literacy and education in regions with high crime rates like rape, we aim to build a more empathetic generation and contribute to the long-term prevention of violence against women.
+  </li>
+  <li>
+    <strong>Rs 1,000</strong> towards <strong>Nivedita</strong>, who runs 
+    <a href="https://www.instagram.com/thewomenofcinema/">The Women of Cinema</a> on Instagram, raising vital awareness about systemic oppression and gender bias in media.
+  </li>
+  <li>
+    <strong>Rs 1,000</strong> worth of books for <strong>Hemalatha</strong> 
+    (<a href="https://www.instagram.com/hemadiaries_25/">@hemadiaries_25</a>), who inadvertently and casually protects underage girls from cyberbullying and harassment on social media.
+  </li>
+</ul>
+
+<blockquote>
+  "Change begins with awareness and grows through education. This month, Karam Kodupom 
+  is proud to support those dismantling systemic bias, protecting our children online, 
+  and planting the seeds of literacy. Every book gifted and every story shared is a 
+  step toward a safer, more equitable world."
+</blockquote>
+
 ### February
 - Rs 3000 given <a href ="https://donateabook.org.in/product/aram-porul-a-library-for-tribal-children-in-kalrayan-hills/"> towards books for aram porul a library for trival children in kalrayan hills </a>. 
 - Books worth Rs 1000 towards Paathshala an NGO in Rajasthan that rescues trafficked children
