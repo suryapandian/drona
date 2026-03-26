@@ -57,7 +57,9 @@ Here we post the activies that we do every month. If you would also like to cont
 </div>
 
 <div style="width: 100%; overflow: hidden;">
-  <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam5.jpeg" width="50%" style="padding: 2%;"></img>
+  <div style="width: 50%; float: left;">
+    <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam5.jpeg" width="100%" style="padding: 2%;"></img>
+  </div>
 </div>
 
 </br>
