@@ -30,16 +30,44 @@ Here we post the activies that we do every month. If you would also like to cont
     <a href="https://www.instagram.com/thewomenofcinema/">The Women of Cinema</a> on Instagram, raising vital awareness about systemic oppression and gender bias in media.
   </li>
   <li>
-    <strong>Rs 1,000</strong> worth of books for <strong>Hemalatha</strong> 
+    <strong>Rs 1,000</strong> worth of books for <strong>Hemalatha</strong>
     (<a href="https://www.instagram.com/hemadiaries_25/">@hemadiaries_25</a>), who inadvertently and casually protects underage girls from cyberbullying and harassment on social media.
+  </li>
+  <li>
+    <strong>Significant funds</strong> dedicated towards feeding and caring for retired elderly residents at a local old age home, ensuring they receive nourishing meals and compassionate support in their golden years.
   </li>
 </ul>
 
+<div style="width: 100%; overflow: hidden;">
+  <div style="width: 50%; float: left;">
+    <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam1.jpeg" width="100%" style="padding: 2%;"></img>
+  </div>
+  <div style="width: 50%; float: right;">
+    <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam2.jpeg" width="100%" style="padding: 2%;"></img>
+  </div>
+</div>
+
+<div style="width: 100%; overflow: hidden;">
+  <div style="width: 50%; float: left;">
+    <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam3.jpeg" width="100%" style="padding: 2%;"></img>
+  </div>
+  <div style="width: 50%; float: right;">
+    <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam4.jpeg" width="100%" style="padding: 2%;"></img>
+  </div>
+</div>
+
+<div style="width: 100%; overflow: hidden;">
+  <img src="https://github.com/suryapandian/drona/raw/main/content/images/anna-dhanam5.jpeg" width="50%" style="padding: 2%;"></img>
+</div>
+
+</br>
+
 <blockquote>
-  "Change begins with awareness and grows through education. This month, Karam Kodupom 
-  is proud to support those dismantling systemic bias, protecting our children online, 
-  and planting the seeds of literacy. Every book gifted and every story shared is a 
-  step toward a safer, more equitable world."
+  "Change begins with awareness and grows through education. This month, Karam Kodupom
+  is proud to support those dismantling systemic bias, protecting our children online,
+  and planting the seeds of literacy. Every book gifted and every story shared is a
+  step toward a safer, more equitable world. We also honor those who care for our elders—
+  ensuring dignity and nourishment in their golden years is a sacred responsibility we embrace."
 </blockquote>
 
 ### February
