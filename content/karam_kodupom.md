@@ -17,6 +17,23 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### May
+
+₹4,240 towards <a href="https://donateabook.org.in/product/paatshala-library-children-create-safer-future/">Paathshala Library — Children Create a Safer Future</a>, helping build a library that gives children access to books, learning, and a safer path forward.
+
+### April
+<ul>
+  <li>
+₹1,000 toward Vocational Training: Empowering women at risk with the skills they need to support themselves and build a life of dignity.
+</li>
+
+<li> ₹1,600 toward Prevention Education: <a href="https://prajwalaindia.com/">Protecting children in high-risk</a> areas through awareness and schooling, ensuring they stay safe and in the classroom. Hopefully this prevents them getting sex trafficked.
+</li>
+</ul>
+
+<img src="/images/monthly-updates/apr_2026_prajwala.png" width="50%" height="50%" style="padding: 2%"></img>
+</br>
+
 ### March
 
 <ul>
