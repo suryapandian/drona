@@ -21,6 +21,8 @@ Here we post the activies that we do every month. If you would also like to cont
 
 ₹4,240 towards <a href="https://donateabook.org.in/product/paatshala-library-children-create-safer-future/">Paathshala Library — Children Create a Safer Future</a>, helping build a library that gives children access to books, learning, and a safer path forward.
 
+We also wanted to donate to <a href="https://www.gulabigang.in">Gulabi Gang</a>, an incredible organisation founded by Sampat Pal Devi in rural Uttar Pradesh. Known for their iconic pink saris, they fight domestic violence, child marriage, and corruption while empowering women in some of India's poorest communities through sustainable livelihoods and skill development. Unfortunately their payment page is currently broken — we have reached out to them and hope to contribute soon.
+
 ### April
 <ul>
   <li>
