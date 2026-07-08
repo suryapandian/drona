@@ -29,6 +29,9 @@ Here we post the activies that we do every month. If you would also like to cont
   <li>
     ₹2,000 to <a href="https://www.cry.org/blog/a-shackled-existence-from-the-rusty-lanes-of-madhya-pradesh/">CRY's work with the Bedia community</a> in Madhya Pradesh, supporting Child Rights and You in their efforts to break cycles of exploitation and restore dignity and education to children from one of India's most marginalised communities.
   </li>
+  <li>
+    ₹5,000 donated for college fees for Sumathy Sivaraman's son.
+  </li>
 </ul>
 
 ### May
@@ -36,6 +39,9 @@ Here we post the activies that we do every month. If you would also like to cont
 <ul>
   <li>
     ₹4,240 towards <a href="https://donateabook.org.in/product/paatshala-library-children-create-safer-future/">Paathshala Library — Children Create a Safer Future</a>, helping build a library that gives children access to books, learning, and a safer path forward.
+  </li>
+  <li>
+    ₹3,000 donated to Bharathi Matha orphanage.
   </li>
   <li>
     We also wanted to donate to <a href="https://www.gulabigang.in">Gulabi Gang</a>, an incredible organisation founded by Sampat Pal Devi in rural Uttar Pradesh. Known for their iconic pink saris, they fight domestic violence, child marriage, and corruption while empowering women in some of India's poorest communities through sustainable livelihoods and skill development. Unfortunately their payment page was broken at the time — we followed up and contributed in June.
