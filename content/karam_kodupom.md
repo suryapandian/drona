@@ -17,6 +17,38 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### July
+
+This month, we're thrilled to support three remarkable organizations dedicated to transforming lives through the power of reading and education. Every book donated is a key that unlocks opportunity, builds confidence, and changes futures.
+
+<ul>
+  <li>
+    <strong>₹1,334 worth of books (10-12 books) to <a href="https://donateabook.org.in/product/avyaym-gift-reading-underprivileged-children-gujarat/">Avyaym Foundation Trust</a></strong> (Rajkot, Gujarat)
+    
+    <i>Founded in 2021 with a mission to improve the lives of underprivileged families, Avyaym has been a beacon of hope in semi-urban and rural Gujarat. They distribute multilingual storybooks—available in English and mother tongue languages—to help children build vocabulary, communication skills, and confidence. For children with limited access to quality educational resources, these books become lifelines of learning.</i> <strong>Your donation helps break the cycle of poverty through literacy.</strong>
+  </li>
+  <li>
+    <strong>₹1,334 worth of books (10-12 books) to <a href="https://donateabook.org.in/product/anveshana-farmers-children-discover-joy-reading/">Anveshana Foundation</a></strong> (Karnataka)
+    
+    <i>Since 2004, Anveshana has been transforming the lives of 20,000+ students and training 5,000+ teachers in rural and urban Karnataka. Founded by visionary educators Mr. S. Chandrashekar and Dr. B.K. Kalavathi, they work specifically with farmers' families and first-generation learners. Their reading programs are essential for breaking generational cycles of limited opportunity. At Anveshana, education isn't just schooling—it's a pathway to dignity and self-determination for farming families.</i> <strong>Reading programs give farmers' children the tools to dream beyond their fields.</strong>
+  </li>
+  <li>
+    <strong>₹1,334 worth of books (10-12 books) to <a href="https://donateabook.org.in/product/evidyaloka-gift-power-reading-rural-children/">eVidyaloka Trust</a></strong> (Karnataka)
+    
+    <i>Founded in 2010 by Satish and Venkat (former Microsoft colleagues with a heart for rural India), eVidyaloka has emerged as a game-changer for rural education. They've reached 189,000+ students across 500+ villages in 14+ states and 21 aspirational districts through innovative digital classrooms and reading campaigns. Their 2022-23 Readathon engaged 14,600+ rural students across 636+ government schools, all supported by 5,500+ volunteers from 110+ cities globally. eVidyaloka proves that geography is no barrier to quality education when passion meets technology.</i> 
+    
+    <strong>🌟 Here's the exciting part: <u>Anyone can volunteer to teach remotely with eVidyaloka.</u></strong> Whether you're in Bangalore, Delhi, or anywhere in the world, you can dedicate 2-4 hours a week to teach Science, Math, English, AI Basics, or Life Skills to rural students via digital classrooms. No prior teaching experience needed—just passion and commitment. You could be the reason a tribal student in Jharkhand dreams of becoming an engineer, or a village girl in Assam discovers her voice through English class. <strong>Supporting eVidyaloka means empowering remote tribal villages to access world-class education—either through donations or by becoming a volunteer educator yourself.</strong>
+  </li>
+</ul>
+
+<blockquote>
+  <strong>Why This Matters Now:</strong> In rural India, books are rare treasures. A child in a village with a single-teacher government school may never see a storybook or experience the joy of reading. Yet reading transforms everything—it builds confidence, expands horizons, and opens doors to futures these children deserve. When we donate books, we're not just distributing paper and ink; we're planting seeds of hope, literacy, and opportunity.
+  
+  <strong>We invite you to join us.</strong> Whether it's ₹334 or ₹3,340, every donation creates ripples of change. Support Avyaym, Anveshana, or eVidyaloka through the fundraiser links above. Help a farmer's child discover that they can dream big. Help an underprivileged girl in Gujarat find her voice through words. Help a tribal student in a remote village realize that the world is bigger, brighter, and full of possibility. 
+  
+  <strong>Be part of a movement where education becomes the great equalizer.</strong> Together, we can ensure that no child is left behind by geography, poverty, or circumstance. One book. One child. One transformed future at a time.
+</blockquote>
+
 ### June
 
 <ul>
