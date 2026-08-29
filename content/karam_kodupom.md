@@ -24,13 +24,13 @@ Here we post the activies that we do every month. If you would also like to cont
     ₹6,000 to Mr. Murugan, a daily wage labourer from Veeravanallur who is suffering greatly from kidney failure. His situation was brought to our attention by Mr. Balasundaram and Mrs. Subbulakshmi, and we contributed what we could towards his treatment.
   </li>
   <li>
-    ₹200 to <a href="https://www.instagram.com/thewomenofcinema/">The Women of Cinema</a> (Nivedita), as a token of support after her content was unduly removed by Instagram. We previously supported her with ₹1,000 in March and ₹2,000 in July.
+    ₹200 to <a href="https://www.instagram.com/thewomenofcinema/">The Women of Cinema</a> (Nivedita), as a token of support after her content was unduly removed by Instagram.
   </li>
   <li>
     ₹100 to <a href="https://www.instagram.com/abrokecollegekid">A Broke College Kid</a>, popular for raising awareness around humans who are suffering.
   </li>
   <li>
-    ₹1,081 to <a href="https://www.bdrf.in">Bharat Disaster Relief Foundation</a> for <a href="https://www.bdrf.in/campaigns/Assam-Flood-Emergency-Relief">Assam Flood Emergency Relief</a>, supporting immediate disaster response efforts.
+    ₹1,081 to <a href="https://www.bdrf.in">Bharat Disaster Relief Foundation</a> and ₹1,000 to <a href="https://www.kindnesswelfare.com/blog/assam-flood-relief-donation">Kindness Welfare</a> for <a href="https://www.bdrf.in/campaigns/Assam-Flood-Emergency-Relief">Assam Flood Emergency Relief</a>, supporting immediate disaster response efforts.
   </li>
 </ul>
 
