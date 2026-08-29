@@ -23,33 +23,49 @@ Here we post the activies that we do every month. If you would also like to cont
   <li>
     ₹6,000 to Mr. Murugan, a daily wage labourer from Veeravanallur who is suffering greatly from kidney failure. His situation was brought to our attention by Mr. Balasundaram and Mrs. Subbulakshmi, and we contributed what we could towards his treatment.
   </li>
+  <li>
+    ₹200 to <a href="https://www.instagram.com/thewomenofcinema/">The Women of Cinema</a> (Nivedita), as a token of support after her content was unduly removed by Instagram. We previously supported her with ₹1,000 in March and ₹2,000 in July.
+  </li>
+  <li>
+    ₹100 to <a href="https://www.instagram.com/abrokecollegekid">A Broke College Kid</a>, popular for raising awareness around humans who are suffering.
+  </li>
 </ul>
+
+This month we're also spotlighting the <a href="https://www.almightyanimalsanctuary.org/donate">Almighty Animal Sanctuary</a>, a community that offers help for rescued animals.
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DcNmnhuT145/" data-instgrm-version="14" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+  <div style="padding:16px;">
+    <a href="https://www.instagram.com/reel/DcNmnhuT145/" style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a>
+  </div>
+</blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+Please consider <a href="https://www.almightyanimalsanctuary.org/donate">donating</a> to support their work with rescued animals.
+
+Here's the note we shared with them along with our contribution:
+
+<blockquote>
+  "I have harmed plants and animals in big and small ways in course of my life. Unlike you I go forward with life because they can't stop me and hold me accountable for my behavior. As a sorry to the beautiful beings, a little something. Thank you for raising awareness and reminding us!
+  <br><br>
+  I will try my best to not cause harm intentionally or unintentionally to animals. But honestly, I really struggle to give up briyani. Please wish me good luck and bless my life!"
+</blockquote>
 
 ### July
 
-This month, we're thrilled to support three remarkable organizations dedicated to transforming lives through the power of reading and education. Every book donated is a key that unlocks opportunity, builds confidence, and changes futures.
-
-**₹1,334 worth of books (10-12 books) to [Avyaym Foundation Trust](https://donateabook.org.in/product/avyaym-gift-reading-underprivileged-children-gujarat/)** (Rajkot, Gujarat)
-
-Founded in 2021 with a mission to improve the lives of underprivileged families, Avyaym has been a beacon of hope in semi-urban and rural Gujarat. They distribute multilingual storybooks—available in English and mother tongue languages—to help children build vocabulary, communication skills, and confidence. For children with limited access to quality educational resources, these books become lifelines of learning. **Your donation helps break the cycle of poverty through literacy.**
-
-**₹1,334 worth of books (10-12 books) to [Anveshana Foundation](https://donateabook.org.in/product/anveshana-farmers-children-discover-joy-reading/)** (Karnataka)
-
-Since 2004, Anveshana has been transforming the lives of 20,000+ students and training 5,000+ teachers in rural and urban Karnataka. Founded by visionary educators Mr. S. Chandrashekar and Dr. B.K. Kalavathi, they work specifically with farmers' families and first-generation learners. Their reading programs are essential for breaking generational cycles of limited opportunity. At Anveshana, education isn't just schooling—it's a pathway to dignity and self-determination for farming families. **Reading programs give farmers' children the tools to dream beyond their fields.**
-
-**₹1,334 worth of books (10-12 books) to [eVidyaloka Trust](https://donateabook.org.in/product/evidyaloka-gift-power-reading-rural-children/)** (Karnataka)
-
-Founded in 2010 by Satish and Venkat (former Microsoft colleagues with a heart for rural India), eVidyaloka has emerged as a game-changer for rural education. They've reached 189,000+ students across 500+ villages in 14+ states and 21 aspirational districts through innovative digital classrooms and reading campaigns. Their 2022-23 Readathon engaged 14,600+ rural students across 636+ government schools, all supported by 5,500+ volunteers from 110+ cities globally. eVidyaloka proves that geography is no barrier to quality education when passion meets technology.
-
-**🌟 Here's the exciting part: Anyone can volunteer to teach remotely with eVidyaloka.** Whether you're in Bangalore, Delhi, or anywhere in the world, you can dedicate 2-4 hours a week to teach Science, Math, English, AI Basics, or Life Skills to rural students via digital classrooms. No prior teaching experience needed—just passion and commitment. You could be the reason a tribal student in Jharkhand dreams of becoming an engineer, or a village girl in Assam discovers her voice through English class. **Supporting eVidyaloka means empowering remote tribal villages to access world-class education—either through donations or by becoming a volunteer educator yourself.**
-
----
-
-**Why This Matters Now:** In rural India, books are rare treasures. A child in a village with a single-teacher government school may never see a storybook or experience the joy of reading. Yet reading transforms everything—it builds confidence, expands horizons, and opens doors to futures these children deserve. When we donate books, we're not just distributing paper and ink; we're planting seeds of hope, literacy, and opportunity.
-
-**We invite you to join us.** Whether it's ₹334 or ₹3,340, every donation creates ripples of change. Support Avyaym, Anveshana, or eVidyaloka through the fundraiser links above. Help a farmer's child discover that they can dream big. Help an underprivileged girl in Gujarat find her voice through words. Help a tribal student in a remote village realize that the world is bigger, brighter, and full of possibility.
-
-**Be part of a movement where education becomes the great equalizer.** Together, we can ensure that no child is left behind by geography, poverty, or circumstance. One book. One child. One transformed future at a time.
+<ul>
+  <li>
+    ₹1,334 worth of books to <a href="https://donateabook.org.in/product/avyaym-gift-reading-underprivileged-children-gujarat/">Avyaym Foundation Trust</a> (Rajkot, Gujarat), which distributes multilingual storybooks to underprivileged families.
+  </li>
+  <li>
+    ₹1,334 worth of books to <a href="https://donateabook.org.in/product/anveshana-farmers-children-discover-joy-reading/">Anveshana Foundation</a> (Karnataka), supporting reading programs for farmers' children.
+  </li>
+  <li>
+    ₹1,334 worth of books to <a href="https://donateabook.org.in/product/evidyaloka-gift-power-reading-rural-children/">eVidyaloka Trust</a> (Karnataka), which runs digital classrooms for rural students.
+  </li>
+  <li>
+    ₹2,000 to <a href="https://www.instagram.com/thewomenofcinema/">The Women of Cinema</a> (Nivedita).
+  </li>
+</ul>
 
 ### June
 
