@@ -29,6 +29,9 @@ Here we post the activies that we do every month. If you would also like to cont
   <li>
     ₹100 to <a href="https://www.instagram.com/abrokecollegekid">A Broke College Kid</a>, popular for raising awareness around humans who are suffering.
   </li>
+  <li>
+    ₹1,081 to <a href="https://www.bdrf.in">Bharat Disaster Relief Foundation</a> for <a href="https://www.bdrf.in/campaigns/Assam-Flood-Emergency-Relief">Assam Flood Emergency Relief</a>, supporting immediate disaster response efforts.
+  </li>
 </ul>
 
 This month we're also spotlighting the <a href="https://www.almightyanimalsanctuary.org/donate">Almighty Animal Sanctuary</a>, a community that offers help for rescued animals.
