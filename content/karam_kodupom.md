@@ -17,6 +17,14 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### August
+
+<ul>
+  <li>
+    ₹6,000 to Mr. Murugan, a daily wage labourer from Veeravanallur who is suffering greatly from kidney failure. His situation was brought to our attention by Mr. Balasundaram and Mrs. Subbulakshmi, and we contributed what we could towards his treatment.
+  </li>
+</ul>
+
 ### July
 
 This month, we're thrilled to support three remarkable organizations dedicated to transforming lives through the power of reading and education. Every book donated is a key that unlocks opportunity, builds confidence, and changes futures.

@@ -11,6 +11,12 @@ draft = false
 
 Slowly and steadily students of Drona have been blessed with success of various degrees. Here is a list of alumni's who cleared numerous exams via Drona.
 
+### Batch of 2026
+
+- Dharsini, selected as Probationary Officer in Regional Rural Bank (RRB PO)
+- Devi, selected as Junior Associate in State Bank of India
+- Amalasneha, selected as Junior Associate in State Bank of India
+
 ### Batch of 2025
 
 - Mokkaih cleared government exam, securing himself a job and steady flow of income.
