@@ -17,6 +17,17 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### September
+
+<ul>
+  <li>
+    ₹1,017 worth of inspirational story books given to <a href="https://www.instagram.com/y.u.v.i_03">Yuvi</a>, a social worker who distributes them to slum kids in and around Delhi.
+  </li>
+  <li>
+    ₹2,000 towards <a href="https://donateabook.org.in/product/garinnevaz-free-reading-corners-balia-mau/">Garinnevaz — Free Reading Corners</a> in Ballia, Uttar Pradesh.
+  </li>
+</ul>
+
 ### August
 
 <ul>
