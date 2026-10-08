@@ -17,6 +17,14 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### October
+
+<ul>
+  <li>
+    ₹2,200 towards education for children at <a href="https://rsksindia.ngo/">RSKS India</a> in Rajasthan, supporting literacy and educational initiatives in a region facing significant social challenges.
+  </li>
+</ul>
+
 ### September
 
 <ul>
