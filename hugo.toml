@@ -68,6 +68,12 @@ name = "Nandana Bags"
 url = "/eco_friendly_bags"
 weight = 8
 
+[[languages.en.menu.main]]
+identifier = "mens mental health"
+name = "Free Therapy for Men"
+url = "/mens_mental_health"
+weight = 9
+
 [markup.goldmark.renderer]
 unsafe = true
 
