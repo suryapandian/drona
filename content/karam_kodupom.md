@@ -17,11 +17,30 @@ Here we post the activies that we do every month. If you would also like to cont
 
 # 2026
 
+### November
+
+<ul>
+  <li>
+    ₹6,000 worth of soap, toothbrushes and other everyday essentials this Diwali for the children, elderly and sick people living at <a href="https://gandhigram.org/avvai-ashram-2/">Avvai Ashram</a>.
+    <div style="width: 100%; overflow: hidden;">
+        <div style="width: 50%; float: left;">
+            <img src="/images/diwali_2026.jpeg" width="100%" style="padding: 2%;"></img>
+        </div>
+    </div>
+  </li>
+  <li>
+    ₹12,000 to <a href="https://redbrigade-lucknow.org/">Red Brigade Lucknow</a>, sponsoring their Self Defense Training Program for women and girls.
+  </li>
+</ul>
+
 ### October
 
 <ul>
   <li>
     ₹2,200 towards education for children at <a href="https://rsksindia.ngo/">RSKS India</a> in Rajasthan, supporting literacy and educational initiatives in a region facing significant social challenges.
+  </li>
+  <li>
+    ₹2,000 worth of books for <a href="https://x.com/thebetterindia/status/2072870443267358967">Nafisha</a> of Umeed, who runs classes for children in a Delhi slum.
   </li>
 </ul>
 
